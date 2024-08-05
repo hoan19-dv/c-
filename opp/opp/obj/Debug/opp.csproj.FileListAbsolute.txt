@@ -1,0 +1,7 @@
+D:\C#\opp\opp\bin\Debug\opp.exe.config
+D:\C#\opp\opp\bin\Debug\opp.exe
+D:\C#\opp\opp\bin\Debug\opp.pdb
+D:\C#\opp\opp\obj\Debug\opp.csproj.AssemblyReference.cache
+D:\C#\opp\opp\obj\Debug\opp.csproj.CoreCompileInputs.cache
+D:\C#\opp\opp\obj\Debug\opp.exe
+D:\C#\opp\opp\obj\Debug\opp.pdb
