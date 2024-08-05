@@ -65,7 +65,7 @@ namespace opp
                         quanlysv.ShowSinhVien(quanlysv.getsv());
                         break;
                     case 7:
-                        Console.WriteLine("Sap xep theo ten");
+                        Console.WriteLine("Sap xep theo id");
                         quanlysv.sapxepid();
                         quanlysv.ShowSinhVien(quanlysv.getsv());
                         break;
