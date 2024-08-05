@@ -21,7 +21,6 @@ namespace opp
                 Console.WriteLine("  5. Sap xep sinh vien theo diem trung binh.       ");
                 Console.WriteLine("  6. Sap xep sinh vien theo ten.                   ");
                 Console.WriteLine("  7. Sap xep sinh vien theo ID.                    ");
-                Console.WriteLine("  8. Hien thi danh sach sinh vien.                 ");
                 Console.WriteLine("  0. Thoat                                         ");
                 Console.WriteLine("*******************************************************");
                 Console.Write("Nhap tuy chon: ");
